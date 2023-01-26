@@ -1,0 +1,63 @@
+img{
+    width:190px ;
+    display: flex;
+    border: 3px solid gray;
+    margin:50px 30px; 
+    border-radius: 50px;
+
+
+    
+}
+.facts{
+    display:;
+    
+}
+input{
+    border:2px solid #6C757D;
+    border-radius: 10px;
+    padding: 0px 0px;
+    text-align: center;
+}
+.btn{
+
+}
+.border{
+    border:2px dotted #6C757D;
+}
+.txt{
+    text-align: center;
+}
+.profile{
+    border: 3px solid #6C757D;
+    font-family: 'Orbitron', sans-serif;
+    color:#2f3e46;
+    background-image: ;
+    display: flex;
+    width: 600px;
+    margin:0px auto;
+    border-bottom:30px solid #adb5bd;
+    border-radius: 30px;
+    background-image:url(/clouds.jpeg);
+
+}
+ul{
+    text-align: left;
+    margin-left: 59px;
+}
+body{
+    
+    background-color: aliceblue;
+}
+/* .icon{
+    width: 10px;
+    border-radius:30px ;
+    border: 2px solid gray;
+    margin-left: auto;
+    display: flex;
+} */
+.cta{
+    color: black;
+    text-decoration: underline;
+}
+
+
